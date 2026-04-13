@@ -14,7 +14,7 @@ Algoritmo Ejercicio2
 		ContadorIMPAR <- 1
 		AcumIMPAR <- Nro
 	FinSi
-	Para ContadorIt <- 2 hasta 5 con paso 1 Hacer
+	Para ContadorIt <- 2 hasta 20 con paso 1 Hacer
 		Escribir "Ingrese siguiente número"
 		Leer Nro
 		Si Nro % 2 = 0 Entonces
